@@ -1,0 +1,59 @@
+.user_name{
+    color: red;
+}
+.message{
+    padding: 10px !important;
+    transition: all 250ms ease-in-out !important;
+    border-radius: 10px !important;
+    margin-bottom: 4px !important;
+}
+.mi_message{
+    background:#428bca !important;
+    color: #000 !important;
+}
+.other_mess{
+    background: #1ab394 !important;
+    color: #000;
+}
+.time{
+    color: #afafaf;
+    float: right;
+    font-size: small;
+}
+.message_row {
+    background-color: #fff;
+}
+
+
+// page-chat {
+//     .user_name {
+//         color: #afafaf;
+//     }
+
+//     .message {
+//         padding: 10px !important;
+//         transition: all 250ms ease-in-out !important;
+//         border-radius: 10px !important;
+//         margin-bottom: 4px !important;
+//     }
+
+//     .mi_message {
+//         background: color(#428bca, primary) !important;
+//         color: #000 !important;
+//     }
+
+//     .other_mess {
+//         background: #dcdcdc !important;
+//         color: #000 !important;
+//     }
+
+//     .time {
+//         color: #afafaf;
+//         float: right;
+//         font-size: small;
+//     }
+
+//     .message_row {
+//         background-color: #fff;
+//     }
+// }
